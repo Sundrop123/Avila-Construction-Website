@@ -1,0 +1,64 @@
+body {
+	padding: 130px;
+	background-color:rgba(126, 126, 126, 0.74);
+	font-family: "Roboto", sans-serif;
+  }
+  
+  .nav-bar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	padding: 10px;
+	background-color: rgb(54, 54, 54);
+	border-bottom: 1px solid #DDDDDD;
+  }
+  
+  .top-nav {
+	position: absolute;
+	right: 10px;
+	top: 60px;
+	font-size:0px; 
+  }
+  .welcome {
+	font-size: 50px;
+  text-align: center;
+  color: #FFF;
+  text-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px;
+  
+  
+  }
+  
+  .nav-link { 
+	color: white;
+	font-size: 30px;
+	padding:  0 6px;
+	border: 1px solid white; 
+	vertical-align: top;
+	margin-top: 0%; 
+  }
+  
+  
+  a {
+	text-decoration: none;
+  }
+  
+  a:hover {
+	text-decoration: underline;
+  }
+  
+  
+  
+  .rl-logo {
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
+  letter-spacing: -0.6px;
+  word-spacing: 6px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: uppercase;
+  vertical-align: 10px;
+  }
+  
+  .mySlides {display:none;}
